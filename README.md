@@ -1,2 +1,2 @@
-# my-first-project
+# first-steps
 learn
